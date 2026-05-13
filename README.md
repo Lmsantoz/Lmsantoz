@@ -1,44 +1,47 @@
-<h1 align="center">Olá! Eu sou o Lucas Marques </h1>
-
-<h3 align="center">Desenvolvedor Backend Java | Analista de Sistemas JR | Estudante de Ciência da Computação</h3>
-
-<p align="center">
-  Transformando regras de negócio complexas em código eficiente e escalável. Focado no ecossistema Java e em arquiteturas para o mercado financeiro.
-</p>
-
----
-
-### Sobre mim
-
-*  Estudante de **Ciência da Computação** na Universidade São Judas Tadeu (USJT).
-* Atualmente atuo como **Analista de Sistemas JR**, garantindo a disponibilidade e fluidez de operações críticas de negócio.
-* Focado em me especializar no desenvolvimento **Backend com Java e Spring Boot**, arquitetura de microsserviços e mensageria (RabbitMQ).
-* Meu objetivo: Construir sistemas resilientes, seguros e de alta performance para grandes instituições financeiras.
+<div align="center">
+  <h1>Lucas Marques</h1>
+  <p><strong>Engenheiro de Software Backend em Formação | Analista de Sistemas JR</strong></p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/lucas-marques" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:seu-email@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### Minhas Tecnologias
+### Sobre Mim
+Especialista em transformar lógica de negócios em sistemas robustos. Com background sólido em operações críticas como **Analista de Sistemas JR**, trago uma mentalidade voltada para **disponibilidade, segurança e performance**.
 
-<h4 align="center">Backend & Banco de Dados</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,rabbitmq&theme=dark&perline=10" alt="Backend Icons" />
+*   **Acadêmico:** Bacharelando em Ciência da Computação na Universidade São Judas Tadeu (USJT).
+*   **Foco Atual:** Arquitetura de microsserviços escaláveis utilizando o ecossistema Spring.
+*   **Visão de Mercado:** Focado em soluções tecnológicas para o setor financeiro e bancário.
+
+---
+
+### Stack Tecnológica
+
+#### 🟢 Core Backend & Persistence
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,redis&theme=dark" alt="Backend" />
 </p>
 
-<h4 align="center">Infraestrutura & Ferramentas</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github&theme=dark&perline=10" alt="Infra Icons" />
+#### 🟡 Messaging & Cloud Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rabbitmq,docker,aws,githubactions,linux&theme=dark" alt="Infra" />
 </p>
 
-<h4 align="center">Front-end (Conhecimentos Adicionais)</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,angular&theme=dark&perline=10" alt="Frontend Icons" />
+#### 🔵 Version & Web
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,postman&theme=dark" alt="DevTools" />
 </p>
 
 ---
-### Como me encontrar
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-marques" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<div align="center">
+  <p><i>"Transformando requisitos complexos em arquiteturas simples, seguras e eficientes."</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" width="100%" />
+</div>
