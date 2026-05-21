@@ -27,12 +27,12 @@ Especialista em transformar lógica de negócios em sistemas robustos. Com backg
 
 #### 🟢 Core Backend & Persistence
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,redis&theme=dark" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Backend" />
 </p>
 
 #### 🟡 Messaging & Cloud Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rabbitmq,docker,aws,githubactions,linux&theme=dark" alt="Infra" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux&theme=dark" alt="Infra" />
 </p>
 
 #### 🔵 Version & Web
