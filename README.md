@@ -22,7 +22,7 @@
 Desenvolvedor backend em formação, focado em traduzir regras de negócios em sistemas eficientes e confiáveis. Busco sempre aliar o aprendizado prático a uma mentalidade voltada para **disponibilidade, segurança e performance**.
 
 * **🎓 Acadêmico:** Bacharelando em Ciência da Computação.
-* **🎯 Foco Atual:** Desenvolvimento de APIs utilizando o ecossistema Spring Boot, Python e PostgreSQL, além da construção do aplicativo de gestão financeira **SpendWise**.
+* **🎯 Foco Atual:** Desenvolvimento de APIs utilizando o ecossistema Spring Boot e PostgreSQL, além da construção do aplicativo de gestão financeira **SpendWise**.
 * **🏦 Visão de Mercado:** Focado em ecossistemas de *Open Finance* e soluções tecnológicas aplicadas ao setor bancário, estruturando iniciativas próprias através do estúdio **elleven**.
 
 ---
