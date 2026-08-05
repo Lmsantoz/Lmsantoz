@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Lucas Marques</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+Java+%7C+Spring+Boot;APIs+seguras%2C+test%C3%A1veis+e+performáticas;Foco+em+Solu%C3%A7%C3%B5es+Financeiras" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+Java+e+Spring+Boot;APIs+seguras%2C+test%C3%A1veis+e+eficientes;Foco+em+Solu%C3%A7%C3%B5es+Financeiras" alt="Typing Animation" />
 
   <br/>
 
@@ -61,11 +61,9 @@ Desenvolvedor backend focado em traduzir regras de negócio em APIs eficientes e
 ### 📊 Atividade e Constância
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lmsantoz&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=lmsantoz&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lmsantoz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lmsantoz&bg_color=0D1117&color=0077B5&line=0077B5&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lmsantoz&bg_color=0D1117&color=0077B5&line=0077B5&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividade" />
 </div>
 
 ---
