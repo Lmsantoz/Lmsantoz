@@ -58,16 +58,6 @@ Desenvolvedor backend focado em traduzir regras de negócio em APIs eficientes e
 
 ---
 
-### 📊 Atividade e Constância
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=lmsantoz&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lmsantoz&bg_color=0D1117&color=0077B5&line=0077B5&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividade" />
-</div>
-
----
-
 <div align="center">
   <p><i>"Transformando requisitos em soluções de software simples, seguras e eficientes."</i></p>
 </div>
